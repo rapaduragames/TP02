@@ -30,6 +30,10 @@ A interface gráfica foi desenvolvida utilizando Java Swing e possui:
 - Botão **Mostrar** para exibir os alunos cadastrados;
 - Botão **Sair** para encerrar a aplicação.
 
+  ## Link do video
+  
+  https://youtu.be/FT-XJlPk6i0
+
 ## Estrutura do projeto
 
 ```text
@@ -38,3 +42,4 @@ TP02
 └── src
     ├── Aluno.java
     └── TelaAluno.java
+
